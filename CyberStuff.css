@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #0f0;
+  text-align: center;
+}
+
+h1 {
+  color: #f00;
+  font-size: 2.5em;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.shrt {
+  width: 300px;
+  background-color: #222;
+  padding: 10px;
+  border: 2px solid #0f0;
+  border-radius: 10px;
+}
+li{
+text-align: left;
+}
